@@ -1,0 +1,171 @@
+[ N 2021-05-19 06:23:59.7304 4448/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 06:23:59.7424 4451/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 06:23:59.7424 4451/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 06:23:59.7665 4451/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 4451
+2021/05/19 06:24:01 [error] 4468#0: *4 directory index of "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/" is forbidden, client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 06:24:02.4012 4451/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2021-05-19 06:24:12.9608 4451/T8 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 06:24:12.9608 4451/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 06:24:12.9609 4451/Tf Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9609 4451/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9609 4451/Ti Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9609 4451/Tf Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 06:24:12.9609 4451/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 06:24:12.9609 4451/Tk Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9609 4451/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 06:24:12.9609 4451/Tg Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9609 4451/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9610 4451/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 06:24:12.9609 4451/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9610 4451/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 06:24:12.9610 4451/Tg Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 06:24:12.9610 4451/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 06:24:12.9609 4451/Tc Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9610 4451/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 06:24:12.9610 4451/Tp Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 06:24:12.9610 4451/Tp Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 06:24:13.5885 4451/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2021-05-19 06:29:17.9298 26592/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 06:29:17.9422 26620/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 06:29:17.9423 26620/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 06:29:17.9789 26620/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 26620
+2021/05/19 06:29:20 [error] 26701#0: *4 directory index of "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/" is forbidden, client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 06:29:20.5243 26620/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+2021/05/19 06:29:29 [error] 26701#0: *5 directory index of "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/" is forbidden, client: 127.0.0.1, server: _, request: "GET / HTTP/1.0", host: "0.0.0.0:3000"
+
+[ N 2021-05-19 06:29:40.0619 26620/T8 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 06:29:40.0620 26620/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 06:29:40.0621 26620/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Th Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 06:29:40.0621 26620/Tc Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 06:29:40.0621 26620/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 06:29:40.0621 26620/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 06:29:40.0621 26620/Tl Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Ti Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0621 26620/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 06:29:40.0622 26620/Tl Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 06:29:40.0622 26620/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 06:29:40.0623 26620/Te Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0623 26620/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 06:29:40.0623 26620/To Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 06:29:40.0624 26620/To Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 06:29:40.7370 26620/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2021-05-19 07:44:27.5382 5818/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 07:44:27.5507 5821/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 07:44:27.5508 5821/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 07:44:27.5788 5821/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 5821
+2021/05/19 07:44:29 [error] 5842#0: *4 directory index of "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/" is forbidden, client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 07:44:30.1629 5821/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2021-05-19 07:45:02.2438 5821/T9 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 07:45:02.2438 5821/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 07:45:02.2439 5821/T9 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/T9 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 07:45:02.2439 5821/Tc Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/Tk Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/Ti Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/Tf Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 07:45:02.2439 5821/Tb Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2440 5821/Tf Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 07:45:02.2439 5821/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2439 5821/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 07:45:02.2440 5821/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 07:45:02.2439 5821/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 07:45:02.2440 5821/Tb Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 07:45:02.2439 5821/Th Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2440 5821/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 07:45:02.2440 5821/Tp Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 07:45:02.2440 5821/Tp Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 07:45:02.9011 5821/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2021-05-19 07:47:04.5462 5996/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 07:47:04.5585 5999/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 07:47:04.5586 5999/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 07:47:04.5953 5999/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 5999
+2021/05/19 07:47:06 [error] 6018#0: *4 "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 07:47:07.1499 5999/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+2021/05/19 07:47:47 [error] 6018#0: *5 "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.0", host: "0.0.0.0:3000"
+
+[ N 2021-05-19 07:48:00.0993 5999/T9 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 07:48:00.0993 5999/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 07:48:00.0994 5999/Th Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Ti Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/Tc Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/T9 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/T9 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/Te Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0994 5999/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 07:48:00.0994 5999/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 07:48:00.0995 5999/Tk Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0995 5999/To Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 07:48:00.0995 5999/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 07:48:00.0995 5999/To Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 07:48:00.7265 5999/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2021-05-19 07:58:35.2665 6928/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 07:58:35.2787 6931/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 07:58:35.2788 6931/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 07:58:35.3107 6931/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 6931
+2021/05/19 07:58:37 [error] 6952#0: *4 "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 07:58:37.8717 6931/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+2021/05/19 07:58:46 [error] 6952#0: *5 "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.0", host: "0.0.0.0:3000"
+
+[ N 2021-05-19 07:58:58.3440 6931/T8 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 07:58:58.3441 6931/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 07:58:58.3441 6931/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Tj Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Tj Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Tk Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Te Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Td Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Th Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3442 6931/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Td Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 07:58:58.3442 6931/To Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 07:58:58.3443 6931/To Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 07:58:58.9995 6931/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2021-05-19 08:48:51.2718 11094/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2021-05-19 08:48:51.2839 11097/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2021-05-19 08:48:51.2840 11097/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2021-05-19 08:48:51.3147 11097/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 11097
+2021/05/19 08:48:53 [error] 11121#0: *4 "/var/www/vhosts/zunamelt.com/mobile.zunamelt.com/scanner/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "HEAD / HTTP/1.1", host: "0.0.0.0"
+[ N 2021-05-19 08:48:53.8634 11097/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2021-05-19 08:49:01.5971 11097/T8 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2021-05-19 08:49:01.5971 11097/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2021-05-19 08:49:01.5971 11097/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Th Ser/Server.h:902 ]: [ServerThr.5] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Tk Ser/Server.h:902 ]: [ServerThr.7] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Th Ser/Server.h:558 ]: [ServerThr.5] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Tk Ser/Server.h:558 ]: [ServerThr.7] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Tc Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Ti Ser/Server.h:902 ]: [ServerThr.6] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Te Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Tm Ser/Server.h:902 ]: [ServerThr.8] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5972 11097/Tc Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Ti Ser/Server.h:558 ]: [ServerThr.6] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2021-05-19 08:49:01.5972 11097/Tm Ser/Server.h:558 ]: [ServerThr.8] Shutdown finished
+[ N 2021-05-19 08:49:01.5973 11097/To Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2021-05-19 08:49:01.5973 11097/To Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2021-05-19 08:49:02.2774 11097/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
