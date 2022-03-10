@@ -1,0 +1,8 @@
+django==3.2.5
+djangorestframework
+django-cors-headers
+django-storages
+django-rest-auth
+python-memcached
+img2pdf
+python-decouple
